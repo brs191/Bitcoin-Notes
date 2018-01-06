@@ -1,0 +1,23 @@
+SiaCoin (SC)
+
+Website:
+https://sia.tech/
+
+Sia splits apart, encrypts, and distributes your files across a decentralized network. 
+Since you hold the keys, you own your data. No outside company can access or control your files, 
+unlike traditional cloud storage providers.
+
+Rates:
+Storage Provider	Monthly Storage Cost	Download Bandwidth Cost
+Sia	                $10	                    $5			
+Amazon S3	          $115	                  $460			
+Google Cloud	      $100	                  $550			
+Microsoft Azure   	$120	                  $435			
+
+SiaCon is Private, Decentralized and Include Multi-Region Redundancy
+
+RoadMaps:
+https://trello.com/b/Io1dDyuI/sia-public-roadmap
+
+Verdict:
+Relative pretty new. Keep a close watch on the company progress
